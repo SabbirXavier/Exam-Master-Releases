@@ -2,7 +2,7 @@
 
 Welcome to the official public distribution repository for **Exam Master Android App**.
 
-### 📱 Latest Release (v1.3.33 — Build 39)
+### 📱 Latest Release (v1.3.35 — Build 41)
 You can download the latest official APKs directly from the repository Releases section:
 
 - **[app-arm64-v8a-release.apk](https://github.com/SabbirXavier/Exam-Master-Releases/releases/latest/download/app-arm64-v8a-release.apk)** — Recommended for 95%+ of modern Android phones (Optimized 64-bit ARM).
